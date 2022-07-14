@@ -1,5 +1,5 @@
 const http = require("http");
-const hostname = '54.172.243.123';
+const hostname = 'localhost';
 const port = 3000;
 
 //Create HTTP server and listen on port 3000 for requests
